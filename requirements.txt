@@ -1,0 +1,13 @@
+ipykernel
+autopep8
+
+numpy
+matplotlib
+qiskit
+
+libnum
+pycryptodome
+Padding
+wheel
+tinyec
+phe
