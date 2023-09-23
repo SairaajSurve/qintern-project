@@ -3,7 +3,7 @@ autopep8
 
 numpy
 matplotlib
-qiskit
+qiskit==0.43.1
 
 libnum
 pycryptodome
