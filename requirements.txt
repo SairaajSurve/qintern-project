@@ -4,6 +4,7 @@ autopep8
 numpy
 matplotlib
 qiskit
+qiskit-aer
 
 libnum
 pycryptodome
@@ -11,3 +12,4 @@ Padding
 wheel
 tinyec
 phe
+pylatexenc
